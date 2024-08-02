@@ -1,0 +1,12 @@
+วิธีการติดตั้ง
+ขั้นตอนเเรก
+virtualenv venv
+
+ขั้นตอนสอง
+venv\Scripts\activate
+
+ขั้นตอนสาม
+pip install -r requirements.txt
+
+วิธีการใช้งาน
+python gofile_uploader.py
